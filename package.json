@@ -1,0 +1,25 @@
+{
+  "name": "niubilitystore",
+  "version": "1.0.0",
+  "description": "Yet another dead simple unpredictable state container",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"All tests passed successfully\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iShawnWang/NiubilityStore.git"
+  },
+  "keywords": [
+    "Store",
+    "State"
+  ],
+  "author": "iShawnWang <iShawnWang2333@gmail.com> (https://iShawn.Wang)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iShawnWang/NiubilityStore/issues"
+  },
+  "homepage": "https://github.com/iShawnWang/NiubilityStore#readme"
+}
