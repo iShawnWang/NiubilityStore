@@ -16,6 +16,10 @@ Here is the `NiubilityStore`
 
 
 ```
+npm i niubilitystore
+
+-
+
 var Store = require("niubilitystore")
 
 Store["blahblah"] = "Lorem ipsum"
